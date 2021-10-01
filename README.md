@@ -6,4 +6,4 @@ Instructions for contribution :
 2) No unnecessary variable should be declare.
 3) All the implementation should be done with all the basic operation related to that particular Data-Structure.
 
-Before subi=miting any pull request make sure to have a proper comment about changes.
+Before submiting any pull request make sure to have a proper comment about changes.
