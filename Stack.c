@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> //header file
 #include<stdlib.h>
 
 #define N 30
