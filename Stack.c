@@ -1,6 +1,6 @@
 #include<stdio.h> //header file
 #include<stdlib.h>
-
+//Library
 #define N 30
 
 int stack[N],top = -1;
